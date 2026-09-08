@@ -149,7 +149,7 @@ A documentação complementar está disponível na pasta [`documentação`](docu
 * [`metodologia.md`](documentação/metodologia.md)
 * [`resultados.md`](documentação/resultados.md)
 
-# Objetivo de Aprendizagem
+## Objetivo de Aprendizagem
 
 Este projeto foi desenvolvido para praticar e consolidar conhecimentos em:
 
@@ -161,6 +161,3 @@ Este projeto foi desenvolvido para praticar e consolidar conhecimentos em:
 * Criação de medidas DAX;
 * Desenvolvimento de dashboards;
 * Organização e documentação de projetos;
-
-```
-```
